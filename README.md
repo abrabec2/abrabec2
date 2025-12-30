@@ -1,7 +1,7 @@
 Hi 👋 My name is Becky Abraham
 ==============================
 
-Projects on web automation and data analytics-- SQL, Java, Python, Tableau, PowerBI, Excel, Selenium webdriver
+Projects on web automation and data analytics-- SQL, Java, Python, Tableau, PowerBI, Excel, Selenium webdriver,Playwright, Javascript
 
 * ✉️  You can contact me at [abrahambec2@gmail.com](mailto:abrahambec2@gmail.com)
 
