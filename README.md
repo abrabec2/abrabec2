@@ -1,9 +1,25 @@
 Hi 👋 My name is Becky Abraham
 ==============================
 
-Projects on web automation and data analytics-- SQL, Java, Python, Tableau, PowerBI, Excel, Selenium webdriver,Playwright, Javascript
+### QA Automation Engineer passionate about building scalable and reliable test automation frameworks. Experienced in automating end-to-end web workflows and improving software quality using modern testing practices.
 
-* ✉️  You can contact me at [abrahambec2@gmail.com](mailto:abrahambec2@gmail.com)
+## 🚀 Technologies Used
+
+**Test Automation:** Playwright, Selenium WebDriver
+
+**Programming & Querying:** TypeScript, JavaScript, Java, Python, SQL
+
+**Frameworks & Patterns:** Page Object Model (POM), End-to-End (E2E) Testing
+
+**Tools & Environment:** Git, GitHub, VS Code
+
+## 📫 Contact
+
+Email: [abrahambec2@gmail.com](mailto:abrahambec2@gmail.com)
+
+GitHub: https://github.com/abrabec2
+
+
 
 
 ### Socials
