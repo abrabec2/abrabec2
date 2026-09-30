@@ -1,27 +1,84 @@
-Hi 👋 My name is Becky Abraham
-==============================
+# Hi, I'm Becky 👋
 
-### QA Automation Engineer passionate about building scalable and reliable test automation frameworks. Experienced in automating end-to-end web workflows and improving software quality using modern testing practices.
+### AI Automation | AI Agents | QA Automation
 
-## 🚀 Technologies Used
+Automation engineer with experience in **software quality, test automation, and AI-powered application development**.
 
-**Test Automation:** Playwright, Selenium WebDriver
+I have a strong background in building reliable **web and API automation solutions** and am expanding my work into **AI automation, AI agents, LLM-powered applications, and intelligent business workflows**.
 
-**Programming & Querying:** TypeScript, JavaScript, Java, Python, SQL
+My projects combine **Python, FastAPI, LangChain, local LLMs, RAG, APIs, and databases** with my experience in designing maintainable and reliable automation solutions.
 
-**Frameworks & Patterns:** Page Object Model (POM), End-to-End (E2E) Testing
+## 🤖 AI Automation & LLM
 
-**Tools & Environment:** Git, GitHub, VS Code
+- AI Agents & AI Workflow Automation
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Ollama
+- Prompt Engineering
+- Embeddings & Vector Search
+- Structured LLM Outputs
+- Business Process Automation
+
+## 🧪 QA & Test Automation
+
+- Playwright
+- Selenium WebDriver
+- REST Assured
+- TestNG
+- API Testing
+- End-to-End (E2E) Testing
+- Page Object Model (POM)
+- UI & API Automation
+
+## 💻 Programming & Backend
+
+- Python
+- TypeScript
+- JavaScript
+- Java
+- FastAPI
+- REST APIs
+- SQL
+
+## 🗄️ Data & Tools
+
+- PostgreSQL
+- pgvector
+- Git
+- GitHub
+- VS Code
+- Jenkins
+- GitHub Actions
+
+## 🚀 Featured Projects
+
+### 🤖 AI Customer Support Automation Agent
+
+AI-powered customer support automation system that classifies customer requests, retrieves relevant knowledge using RAG, generates contextual responses, determines when human escalation is required, and stores interaction data.
+
+**Tech:** Python • FastAPI • Ollama • RAG • PostgreSQL • pgvector
+
+### 🎯 AI Sales Lead Qualification & CRM Automation
+
+LLM-powered sales automation application that analyzes incoming sales leads and converts unstructured information into structured business decisions such as intent, lead score, priority, confidence, and recommended action.
+
+**Tech:** Python • FastAPI • LangChain • Ollama • Pydantic
+
+### ☁️ Salesforce CRM Automation
+
+End-to-end automation framework for Salesforce CRM workflows using Playwright and TypeScript with reusable Page Object Model architecture and authentication state management.
+
+**Tech:** Playwright • TypeScript • POM
+
+### 🧪 Web & API Automation
+
+Automation projects covering end-to-end web workflows and REST API validation using modern automation frameworks.
+
+**Tech:** Playwright • Selenium • Java • REST Assured • TestNG
 
 ## 📫 Contact
 
-Email: [abrahambec2@gmail.com](mailto:abrahambec2@gmail.com)
+**Email:** abrahambec2@gmail.com
 
-GitHub: https://github.com/abrabec2
-
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/abrabec2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+**GitHub:** https://github.com/abrabec2
